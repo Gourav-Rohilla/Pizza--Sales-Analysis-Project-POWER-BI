@@ -1,2 +1,4 @@
 # Pizza-s-Sales-Analysis-Project-POWER-BI
  A Pizza Sales Analysis Dashboard that visualizes key metrics like sales trends, customer demographics, and product performance to optimize business decisions.
+
+The Pizza Sales Analysis Dashboard is an interactive data visualization tool designed to provide insights into pizza sales performance. It aggregates and analyzes key metrics such as total sales, order frequency, customer demographics, regional trends, and the popularity of different pizza types. By presenting these insights in an easy-to-understand format, the dashboard helps pizza businesses optimize inventory management, marketing strategies, and customer engagement efforts, ultimately driving better business decisions and increasing profitability. Key features include trend analysis, geographical breakdowns, and detailed reports on product performance.
